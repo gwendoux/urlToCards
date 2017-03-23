@@ -1,0 +1,731 @@
+[
+  {
+    "url": "https://csswizardry.com/2017/02/base64-encoding-and-performance/"
+  },
+  {
+    "url": "https://jakearchibald.com/2017/do-we-need-a-new-heading-element/"
+  },
+  {
+    "url": "https://medium.com/outsystems-engineering/making-magic-with-websockets-and-css3-ec22c1dcc8a8#.fuyf7eui6"
+  },
+  {
+    "url": "https://www.filamentgroup.com/lab/modernizing-delivery.html"
+  },
+  {
+    "url": "http://mxstbr.blog/2017/01/your-first-node-microservice/"
+  },
+  {
+    "url": "https://blog.superhuman.com/architecting-a-web-app-to-just-work-offline-part-1-8697f316c0eb#.2gz5uc8gw"
+  },
+  {
+    "url": "https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2#.wiedzru16"
+  },
+  {
+    "url": "https://css-tricks.com/build-custom-cms-serverless-static-site-generator/"
+  },
+  {
+    "url": "https://calendar.perfplanet.com/2016/improving-performance-by-caching-and-storing/"
+  },
+  {
+    "url": "http://zurb.com/article/1456/5-common-mistakes-designers-make-when-usi"
+  },
+  {
+    "url": "https://betterwebtype.com/"
+  },
+  {
+    "url": "https://nystudio107.com/blog/implementing-critical-css"
+  },
+  {
+    "url": "https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css"
+  },
+  {
+    "url": "https://stackoverflow.blog/2017/02/14/why-stack-overflow-redesigned-the-top-navigation/"
+  },
+  {
+    "url": "http://vuetips.com/introduction-continuous-integration-gitlab"
+  },
+  {
+    "url": "https://veekaybee.github.io/facebook-is-collecting-this/"
+  },
+  {
+    "url": "https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.d2og8kngy"
+  },
+  {
+    "url": "https://mikeindustries.com/blog/archive/2017/01/is-this-helpful"
+  },
+  {
+    "url": "https://githubengineering.com/moving-persistent-data-out-of-redis/"
+  },
+  {
+    "url": "https://uxdesign.cc/human-first-vs-ai-first-approach-to-building-a-smart-and-fast-bot-895aea3fc8c#.lz4mptxws"
+  },
+  {
+    "url": "https://blog.nelhage.com/2016/12/how-i-test/"
+  },
+  {
+    "url": "https://medium.muz.li/hacking-product-design-de2be6a11481#.8x8nohhfq"
+  },
+  {
+    "url": "https://www.viget.com/articles/do-responsive-sites-have-to-be-so-tall-on-mobile"
+  },
+  {
+    "url": "https://github.com/Fabianlindfors/multi.js"
+  },
+  {
+    "url": "http://bradfrost.com/blog/post/frontend-design/"
+  },
+  {
+    "url": "https://github.com/muesli/beehive"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/why-you-shouldnt-ask-a-developer-to-fix-your-bike-336be286fc37#.udqjy8vd5"
+  },
+  {
+    "url": "https://blog.skyliner.io/ship-small-diffs-741308bec0d1#.9mjvdixdb"
+  },
+  {
+    "url": "http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/"
+  },
+  {
+    "url": "http://allthingssmitty.com/2017/01/30/nope-nope-nope-line-height-is-unitless/"
+  },
+  {
+    "url": "https://hackernoon.com/appointment-web-forms-159caa276dcc#.9x03692pj"
+  },
+  {
+    "url": "https://developers.google.com/web/updates/2017/01/css-grid"
+  },
+  {
+    "url": "https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda/"
+  },
+  {
+    "url": "https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/"
+  },
+  {
+    "url": "http://kosamari.com/notes/the-promise-of-a-burger-party"
+  },
+  {
+    "url": "http://ericholscher.com/blog/2017/jan/27/code-is-self-documenting/"
+  },
+  {
+    "url": "https://www.rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/"
+  },
+  {
+    "url": "https://codeahoy.com/2017/01/20/hhtop-explained-visually/"
+  },
+  {
+    "url": "http://blog.invisionapp.com/ux-design-trends-2017/"
+  },
+  {
+    "url": "https://css-tricks.com/intro-to-vue-1-rendering-directives-events/"
+  },
+  {
+    "url": "https://ethanmarcotte.com/wrote/free-faster/"
+  },
+  {
+    "url": "https://spences10.github.io/2017/01/28/twitter-bot-bootstrap.html"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/understanding-prototypal-inheritance-in-javascript-with-css-93b2fcda75e4#.52liatwza"
+  },
+  {
+    "url": "http://bradfrost.com/blog/post/dont-shit-where-you-eat/"
+  },
+  {
+    "url": "https://github.com/stevenvachon/broken-link-checker"
+  },
+  {
+    "url": "http://codepen.io/ahmadnassri/post/non-rectangular-headers-part-1"
+  },
+  {
+    "url": "https://medium.com/samsung-internet-dev/making-input-type-date-complicated-a544fd27c45a#.ysvotl6fx"
+  },
+  {
+    "url": "https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node"
+  },
+  {
+    "url": "https://github.com/oklog/oklog"
+  },
+  {
+    "url": "https://medium.com/@gerstenzang/the-next-billion-programmers-wont-use-git-5e8b0ea57886#.s5v7lxh6z"
+  },
+  {
+    "url": "https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15#.4rljk4hgo"
+  },
+  {
+    "url": "https://hackernoon.com/i-swore-never-to-use-css-in-js-here-are-6-reasons-why-i-was-wrong-541fe3dfdeb7#.82yh5vhhp"
+  },
+  {
+    "url": "https://css-tricks.com/peoples-names-break-websites/"
+  },
+  {
+    "url": "https://blog.codeship.com/up-and-running-with-vue-js/"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.q0m8mop6i"
+  },
+  {
+    "url": "https://beyondtellerrand.com/events/berlin-2016/speakers/sacha-judd"
+  },
+  {
+    "url": "https://davidwalsh.name/es6-minifier"
+  },
+  {
+    "url": "https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/"
+  },
+  {
+    "url": "http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/"
+  },
+  {
+    "url": "https://24ways.org/2016/information-literacy-is-a-design-problem/"
+  },
+  {
+    "url": "https://24ways.org/2016/front-end-developers-are-information-architects-too/"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.2s3678kng"
+  },
+  {
+    "url": "https://calendar.perfplanet.com/2016/image-optimization/"
+  },
+  {
+    "url": "https://medium.com/@jon.moore/fifty-shades-of-fafafa-eaa903e36b9c#.50phk9yep"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/all-of-2016s-top-mobile-apps-are-owned-by-either-google-or-facebook-a9c56d77a74b#.umutzcrpb"
+  },
+  {
+    "url": "https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c#.acmls2d41"
+  },
+  {
+    "url": "https://24ways.org/2016/a-favor-for-your-future-self/"
+  },
+  {
+    "url": "https://uxplanet.org/best-practices-for-microinteractions-9456211aeed0#.en9ie9ngj"
+  },
+  {
+    "url": "https://community.risingstack.com/redis-node-js-introduction-to-caching/"
+  },
+  {
+    "url": "https://stdlib.com/wizard"
+  },
+  {
+    "url": "https://medium.com/offline-camp/storing-sensitive-data-offline-cec851df95e3#.v4oynj6o9"
+  },
+  {
+    "url": "https://github.com/ben-eb/postcss-resemble-image"
+  },
+  {
+    "url": "https://github.com/sylvainpolletvillard/postcss-grid-kiss"
+  },
+  {
+    "url": "https://dbushell.com/2016/12/02/my-thoughts-on-react/"
+  },
+  {
+    "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README.md"
+  },
+  {
+    "url": "https://designnotes.blog.gov.uk/2016/11/30/weve-updated-the-radios-and-checkboxes-on-gov-uk/"
+  },
+  {
+    "url": "https://blog.trainline.eu/13797-trusting-people-with-admin-rights"
+  },
+  {
+    "url": "https://remysharp.com/2016/12/04/when-my-ssl-is-suddenly-not-secure"
+  },
+  {
+    "url": "https://thenewstack.io/programmers-react-warning-hype-driven-development/"
+  },
+  {
+    "url": "https://cloudfour.com/thinks/progressive-web-apps-simply-make-sense/"
+  },
+  {
+    "url": "https://www.zachleat.com/web/lazy-loading-webfonts/"
+  },
+  {
+    "url": "https://calendar.perfplanet.com/2016/lighthouse-lighting-to-way-to-better-web-performance/"
+  },
+  {
+    "url": "http://putaindecode.io/fr/articles/frontend/2016-2-ans-avec-react-babel-webpack-et-cie/"
+  },
+  {
+    "url": "https://bocoup.com/blog/javascript-developers-watch-your-language"
+  },
+  {
+    "url": "https://dev.to/corgibytes/setting-up-a-minimal-yet-useful-javascript-dev-environment"
+  },
+  {
+    "url": "https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/"
+  },
+  {
+    "url": "http://untangled.io/immutable-js-an-introduction-with-examples-written-for-humans/"
+  },
+  {
+    "url": "https://github.com/nuxt/nuxt.js"
+  },
+  {
+    "url": "https://daveceddia.com/how-to-learn-react/"
+  },
+  {
+    "url": "https://medium.com/@kimberleycook/intro-to-webpack-1d035a47028d#.o8fnyyg7b"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/react-higher-order-components-635d0bc38b6c#.ewb24cxdj"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/the-most-important-eslint-rule-for-redux-applications-c10f6aeff61d#.j1n7e8is4"
+  },
+  {
+    "url": "https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.y6iy7smsc"
+  },
+  {
+    "url": "https://kickstarter.engineering/ecs-vault-shhhhh-i-have-a-secret-40e41af42c28#.5bb8acbys"
+  },
+  {
+    "url": "https://css-tricks.com/intro-monkey-testing-gremlins-js/"
+  },
+  {
+    "url": "https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004#.wrhrhb3jt"
+  },
+  {
+    "url": "https://medium.com/net-magazine/fighting-ebola-with-javascript-26b48da8f84a#.x1cbdbndt"
+  },
+  {
+    "url": "https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78#.krr29fm3s"
+  },
+  {
+    "url": "https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.l906qquuk"
+  },
+  {
+    "url": "https://medium.com/@jon.moore/fifty-shades-of-fafafa-eaa903e36b9c#.taifju9bi"
+  },
+  {
+    "url": "http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/11/the-golden-rules-of-mobile-navigation-design/"
+  },
+  {
+    "url": "https://davidwalsh.name/es6-features"
+  },
+  {
+    "url": "https://medium.com/subform/hey-ui-ux-designers-stop-pushing-pixels-892b972ebfa6#.geqgg4r6j"
+  },
+  {
+    "url": "https://uxdesign.cc/reducing-visual-noise-for-a-better-user-experience-ae3407ff9c99#.pj5n72htk"
+  },
+  {
+    "url": "https://blog.yld.io/2016/10/24/node-js-databases-an-embedded-database-using-leveldb/"
+  },
+  {
+    "url": "https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70#.c6nj2wg7s"
+  },
+  {
+    "url": "http://thenewcode.com/1152/Search-JavaScript-Arrays-Efficiently-with-includes-and-indexOf"
+  },
+  {
+    "url": "http://www.lottejackson.com/learning/nth-child-cicada-principle"
+  },
+  {
+    "url": "http://www.jazcash.com/a-javascript-journey-with-only-six-characters/"
+  },
+  {
+    "url": "https://css-tricks.com/declarative-data-fetching-graphql/"
+  },
+  {
+    "url": "https://adactio.com/journal/11319"
+  },
+  {
+    "url": "https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.tp4b8we60"
+  },
+  {
+    "url": "https://strongloop.com/strongblog/using-loopback-to-build-apis-for-apis/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/"
+  },
+  {
+    "url": "https://css-tricks.com/will-flattening-html-css-grids/"
+  },
+  {
+    "url": "https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/"
+  },
+  {
+    "url": "http://joren.co/flex-grow-9999-hack/"
+  },
+  {
+    "url": "https://timkadlec.com/2016/10/chasing-tools/"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492#.k4m3395rw"
+  },
+  {
+    "url": "https://adactio.com/journal/11274"
+  },
+  {
+    "url": "https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.njwrakqkb"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/what-does-it-mean-when-code-is-easy-to-reason-about-4e6f63eb386f#.ew785awca"
+  },
+  {
+    "url": "http://daverupert.com/2016/09/the-web-is-ruined-and-i-ruined-it/"
+  },
+  {
+    "url": "https://philipwalton.com/articles/loading-polyfills-only-when-needed/"
+  },
+  {
+    "url": "https://css-tricks.com/template-literals/"
+  },
+  {
+    "url": "https://blog.trainline.eu/13439-standardizing-interfaces-across-projects-with-makefiles"
+  },
+  {
+    "url": "https://blog.codeship.com/getting-started-with-minitest/"
+  },
+  {
+    "url": "https://medium.com/cartogram/embracing-constraint-with-css-modules-89ba3bbcb95d#.vtwckwtd9"
+  },
+  {
+    "url": "http://blog.jfo.click/how-react-do/"
+  },
+  {
+    "url": "http://blog.dareboost.com/en/2016/09/avoid-using-document-write-scripts-injection/"
+  },
+  {
+    "url": "https://www.sitepoint.com/add-remove-css-class-vanilla-js/"
+  },
+  {
+    "url": "https://github.com/nolanlawson/optimize-js"
+  },
+  {
+    "url": "https://github.com/GUI/lua-resty-auto-ssl"
+  },
+  {
+    "url": "https://chloe.re/2016/08/19/more-control-with-clear-site-data-and-feature-policy/"
+  },
+  {
+    "url": "https://madebymike.com.au/writing/svg-has-more-potential/"
+  },
+  {
+    "url": "https://uxdesign.cc/should-ux-designers-join-the-dark-side-13e74eec1c33#.nmes1jqtj"
+  },
+  {
+    "url": "https://blog.avocode.com/blog/why-should-a-ui-designer-try-using-git"
+  },
+  {
+    "url": "https://css-tricks.com/methods-controlling-spacing-web-typography/"
+  },
+  {
+    "url": "https://codeascraft.com/2016/09/26/api-first-transformation-at-etsy-operations/"
+  },
+  {
+    "url": "http://basho.com/posts/technical/microservices-please-dont/"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/you-need-to-stop-making-these-6-mistakes-with-your-img-s-e242c02d14be#.2l2bevjwf"
+  },
+  {
+    "url": "https://gist.github.com/alekseykulikov/68a5d6ddae569f6d0456b0e9d603e892"
+  },
+  {
+    "url": "https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/"
+  },
+  {
+    "url": "https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html"
+  },
+  {
+    "url": "https://glebbahmutov.com/blog/synching-db/"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/how-to-implement-your-first-password-less-login-system-8141b6f9ddf2#.2tz1nmjdn"
+  },
+  {
+    "url": "https://github.com/nolanlawson/optimize-js"
+  },
+  {
+    "url": "http://www.cli-nerd.com/2016/09/12/functions-are-better-than-components.html"
+  },
+  {
+    "url": "http://githubengineering.com/the-github-graphql-api/"
+  },
+  {
+    "url": "https://ericbidelman.tumblr.com/post/150410248401/using-http2-for-app-engine-local-development"
+  },
+  {
+    "url": "https://css-tricks.com/building-resizeable-components-relative-css-units/"
+  },
+  {
+    "url": "https://www.joyent.com/blog/observable-nodejs-applications"
+  },
+  {
+    "url": "https://daveceddia.com/ajax-requests-in-react/"
+  },
+  {
+    "url": "https://www.andreas-jung.com/contents/dont-use-docker-in-github-repo-names-or-as-twitter-handle"
+  },
+  {
+    "url": "https://www.nginx.com/blog/nginscript-progressively-transition-clients-to-new-server/"
+  },
+  {
+    "url": "https://ponyfoo.com/articles/template-literals-strictly-better-strings"
+  },
+  {
+    "url": "https://bullshit.ist/against-minimalism-1be2c4abadbf#.hzlk6xrgw"
+  },
+  {
+    "url": "https://blog.emerleite.com/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.gyfx19mhf"
+  },
+  {
+    "url": "https://mfbt.ca/why-more-companies-dont-do-remote-work-and-probably-shouldn-t-d8639cf26096#.fr817oetd"
+  },
+  {
+    "url": "https://github.com/franciscop/cookies.js"
+  },
+  {
+    "url": "https://blog.filippo.io/so-i-lost-my-openbsd-fde-password/"
+  },
+  {
+    "url": "https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643#.ls62x6ejb"
+  },
+  {
+    "url": "http://www.mattzabriskie.com/blog/communicate-your-efforts"
+  },
+  {
+    "url": "http://fusejs.io/"
+  },
+  {
+    "url": "http://wesbos.com/arrow-functions/"
+  },
+  {
+    "url": "https://www.sitepoint.com/getting-started-with-pouchdb/"
+  },
+  {
+    "url": "http://blog.8faces.com/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/"
+  },
+  {
+    "url": "http://romain.dorgueil.net/blog/en/web-performance/2016/09/06/1-light-speed-web-performance.html"
+  },
+  {
+    "url": "https://www.gosquared.com/blog/surprise-customers-with-features"
+  },
+  {
+    "url": "https://medium.com/@jsaito/the-mighty-ellipsis-6c2c00ddc864#.dggy3x7ud"
+  },
+  {
+    "url": "https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies"
+  },
+  {
+    "url": "https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/"
+  },
+  {
+    "url": "https://uxdesign.cc/shit-loops-in-design-7f987baf6cec#.3fagcwpuo"
+  },
+  {
+    "url": "https://philna.sh/blog/2016/08/17/install-a-service-worker-declaratively/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/"
+  },
+  {
+    "url": "https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/"
+  },
+  {
+    "url": "https://cpbotha.net/2016/08/06/moving-12-years-of-email-from-gmail-to-fastmail/"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/how-to-package-your-service-like-a-product-88d7501bfe1b#.j2ta0x6k3"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/08/web-development-reading-list-149/"
+  },
+  {
+    "url": "https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/"
+  },
+  {
+    "url": "https://www.lullabot.com/articles/scaling-css-components-with-bem-rems-ems"
+  },
+  {
+    "url": "https://dev.to/ben/this-image-is-also-an-html-webpage"
+  },
+  {
+    "url": "https://m.signalvnoise.com/expectations-of-total-transparency-in-open-source-can-easily-lead-to-burn-out-28dea1a07417#.vxeat61wm"
+  },
+  {
+    "url": "https://www.uxpin.com/studio/blog/ugly-works-designing-usability/"
+  },
+  {
+    "url": "https://bitsofco.de/the-service-worker-lifecycle/"
+  },
+  {
+    "url": "https://rainsoft.io/why-object-literals-in-javascript-are-cool/"
+  },
+  {
+    "url": "https://ponyfoo.com/articles/backgroundsync"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea#.pwuq1mbdy"
+  },
+  {
+    "url": "https://webapplog.com/http2-node/"
+  },
+  {
+    "url": "http://blog.yld.io/2016/07/12/a-distributed-work-queue/"
+  },
+  {
+    "url": "http://davidshariff.com/blog/borrowing-methods-in-javascript/"
+  },
+  {
+    "url": "https://code.tutsplus.com/tutorials/design-patterns-the-command-pattern--cms-22942"
+  },
+  {
+    "url": "https://medium.com/intercom-inside/8-principles-of-bot-design-51f03df1d84c#.s8p2l8kuj"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/"
+  },
+  {
+    "url": "https://css-tricks.com/form-validation-ux-html-css/"
+  },
+  {
+    "url": "https://medium.com/@johnamwill/your-style-guides-missing-something-and-it-s-big-263a6124f6d2#.fdix46hp2"
+  },
+  {
+    "url": "https://medium.com/markuptips/unfolding-critical-css-91619401b4e#.aqsgqe5rk"
+  },
+  {
+    "url": "https://blog.risingstack.com/node-js-logging-tutorial/"
+  },
+  {
+    "url": "http://jlongster.com/Implementing-Stepping-Debugger-JavaScript"
+  },
+  {
+    "url": "https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb#.skh9lewgv"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/5-javascript-bad-parts-that-are-fixed-in-es6-c7c45d44fd81#.xynjytaba"
+  },
+  {
+    "url": "http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/"
+  },
+  {
+    "url": "http://alistapart.com/article/pain-with-no-name"
+  },
+  {
+    "url": "https://code.tutsplus.com/tutorials/keeping-promises-with-javascript--cms-25056"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/02/making-a-service-worker/"
+  },
+  {
+    "url": "https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/"
+  },
+  {
+    "url": "https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.593w082ax"
+  },
+  {
+    "url": "https://uxplanet.org/pagination-best-practices-76fbd3f5a78d#.i8zvy5m8s"
+  },
+  {
+    "url": "https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.o6htb16ev"
+  },
+  {
+    "url": "https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/"
+  },
+  {
+    "url": "http://alistapart.com/article/meaningful-css-style-like-you-mean-it"
+  },
+  {
+    "url": "https://ionicabizau.net/blog/30-how-to-write-a-web-scraper-in-node-js"
+  },
+  {
+    "url": "https://hashnode.com/post/10-things-you-probably-didnt-know-about-javascript-react-and-nodejs-and-graphql-development-at-facebook-cink0r0e500h5io53fpl7ediu"
+  },
+  {
+    "url": "https://www.sitepoint.com/javascript-testing-unit-functional-integration/"
+  },
+  {
+    "url": "https://css-tricks.com/images-in-postcss/"
+  },
+  {
+    "url": "https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/"
+  },
+  {
+    "url": "http://blog.cloud66.com/best-practice-for-http2-front-end-deployments/"
+  },
+  {
+    "url": "http://airbnb.design/the-way-we-build/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/"
+  },
+  {
+    "url": "http://bytearcher.com/articles/understanding-prototype-property-in-javascript/"
+  },
+  {
+    "url": "https://medium.com/studio-function/typography-tips-for-a-better-user-experience-30a1a48371e6#.zh3sx88d1"
+  },
+  {
+    "url": "https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/"
+  },
+  {
+    "url": "https://css-tricks.com/annotating-critical-css/"
+  },
+  {
+    "url": "https://medium.com/@thomasfuchs/what-if-we-had-a-great-standard-library-in-javascript-52692342ee3f#.xgvtpw9pg"
+  },
+  {
+    "url": "https://blog.nodeswat.com/implement-access-control-in-node-js-8567e7b484d1#.54elz9b7w"
+  },
+  {
+    "url": "https://www.toptal.com/javascript/writing-testable-code-in-javascript"
+  },
+  {
+    "url": "http://blog.codeship.com/testing-with-docker/"
+  },
+  {
+    "url": "https://www.sitepoint.com/bind-javascripts-this-keyword-react/"
+  },
+  {
+    "url": "https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.itthtulit"
+  },
+  {
+    "url": "https://bocoup.com/weblog/seams-in-javascript"
+  },
+  {
+    "url": "http://franzheidl.github.io/bemify/"
+  },
+  {
+    "url": "http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html"
+  },
+  {
+    "url": "http://blog.wearecolony.com/a-year-without-jquery/"
+  },
+  {
+    "url": "http://tech.trello.com/trellisheets-how-we-spin-up-css-for-trello-sites-with-ease/"
+  },
+  {
+    "url": "https://zachholman.com/posts/deploying-software"
+  },
+  {
+    "url": "https://blog.tighten.co/unpacking-webpack"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/"
+  },
+  {
+    "url": "https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/"
+  },
+  {
+    "url": "https://github.com/pocketjoso/penthouse#penthouse"
+  },
+  {
+    "url": "http://nightwatchjs.org/"
+  }
+]

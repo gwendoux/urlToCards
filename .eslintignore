@@ -1,0 +1,12 @@
+**/*.min.js
+node_modules/*
+bower_components/*
+dist/*
+dev/*
+scripts/*
+backup/*
+**/vendor/*
+**/vendors/*
+**/coverage/*
+**/templates.js
+**/concat.js

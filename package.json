@@ -1,0 +1,27 @@
+{
+  "name": "url-to-cards",
+  "version": "1.0.0",
+  "description": "transformed urls to cards with title, desc. and images",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "prestart": "npm run lint",
+    "start": "node app.js"
+  },
+  "author": "gwendoux",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "html-metadata": "1.6.3",
+    "iconv-lite": "0.4.15",
+    "loglevel": "1.4.1",
+    "mongoose": "4.9.0",
+    "request": "2.81.0",
+    "request-promise": "4.2.0",
+    "screenshot-stream": "4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "3.18.0"
+  }
+}
