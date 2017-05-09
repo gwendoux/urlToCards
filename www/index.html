@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>The reading list ... give me something to read</title>
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/vue.resource/1.3.1/vue-resource.min.js"></script>
+  <script src="js/script.js"></script>
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/master.css">
+</head>
+<body class="container">
+  <header>
+    <h1>The no yet read articles</h1>
+    <p>
+      this is a story of some links, somes are great, anothers are not so useful.
+      But for a reason this particular curator gave them a chance to be read.
+      If you are lucky you will find what you want otherwise you will something and that is already a good thing.
+    </p>
+  </header>
+  <section id="loop">
+      <link-item
+        v-for="(item, index) in items"
+        v-bind:item="item"
+        v-on:save="save(item)"
+        v-on:remove="remove(item)"
+        :key="item._id">
+      </link-item>
+  </section>
+</body>
+</html>

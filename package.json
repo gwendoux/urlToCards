@@ -7,21 +7,38 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "prestart": "npm run lint",
-    "start": "node app.js"
+    "start": "node app.js",
+    "preserver": "npm run lint",
+    "server": "node server.js",
+    "server:watch": "nodemon server.js"
   },
   "author": "gwendoux",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "1.17.1",
     "cheerio": "0.22.0",
+    "cluster": "^0.7.7",
+    "commander": "2.9.0",
+    "convict": "3.0.0",
+    "express": "4.15.2",
     "html-metadata": "1.6.3",
+    "http": "^0.0.0",
     "iconv-lite": "0.4.15",
     "loglevel": "1.4.1",
-    "mongoose": "4.9.0",
+    "mongoose": "^4.9.3",
+    "morgan": "1.8.1",
+    "normalize.css": "7.0.0",
+    "pngcrush": "1.1.1",
     "request": "2.81.0",
     "request-promise": "4.2.0",
-    "screenshot-stream": "4.1.0"
+    "screenshot-stream": "4.1.0",
+    "sharp": "^0.17.3",
+    "tracer": "0.8.7",
+    "vue": "2.2.6",
+    "webshot": "0.18.0"
   },
   "devDependencies": {
-    "eslint": "3.18.0"
+    "eslint": "^3.19.0",
+    "nodemon": "1.11.0"
   }
 }
