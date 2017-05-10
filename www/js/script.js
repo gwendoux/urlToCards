@@ -45,7 +45,6 @@ window.onload = function () {
         },
         methods: {
             updateResource(data){
-                console.log(data);
                 this.items = data
             },
             save: function(item) {
