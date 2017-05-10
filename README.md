@@ -15,7 +15,7 @@ urlToCards
 
 ## UI manipulation ##
 
-- [ ] add pagination
+- [X] add pagination
 - [X] add alert message
 - [ ] better UI
 - [ ] add prepack
@@ -25,6 +25,6 @@ urlToCards
 ## server code ##
 
 - [ ] code screenshot grabber
-- [ ] add authentification via email
+- [ ] add auth via email
 - [ ] better mongo security
 - [ ] pagination
