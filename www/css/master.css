@@ -11,6 +11,7 @@ section {
   grid-row-gap: 1rem;
   align-items: top;
   justify-items: space-evenly;
+  padding-bottom: 4.5rem;
 }
 article {
   max-width: 260px;
@@ -22,7 +23,18 @@ article {
   border: 0;
   resize: none;
 }
-
+.v-paginator {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: .5rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #FFF7F7;
+  color: #3C4A8C;
+}
 .alert {
   display: block;
   margin: 0 auto;
