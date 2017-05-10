@@ -2,24 +2,42 @@ const config = require('../lib/config');
 const logger = config.getLogger();
 
 const mongoose = require('mongoose');
+const mongoosePaginate = require('mongoose-paginate');
 mongoose.Promise = global.Promise;
 
 var readingListDB = mongoose.createConnection('mongodb://localhost/readingList');
-var item = readingListDB.model(
-    'item',
-    new mongoose.Schema({
-        url: String,
-        title: String,
-        webshot: String
-    })
-);
+
+var schema = new mongoose.Schema({
+    url: String,
+    title: String,
+    webshot: String
+});
+schema.plugin(mongoosePaginate);
+var item = readingListDB.model('item',  schema);
 
 function read (req, res, next) {
-    // add parameter to handle pagination
+    var options = {
+        page: parseInt(req.params.page, 10) || 1
+    };
     res.setHeader('Content-Type', 'application/json');
-    item.find({}).limit(12)
-    .then(function(data){
-        res.jsonp(data);
+    item.paginate({}, options)
+    .then(function(result){
+        logger.info("total:", result.total);
+        logger.info("limit:", result.limit);
+        logger.info("page:", result.page, "/", result.pages);
+        result.next_page_url = null;
+        result.prev_page_url = null;
+        if(result.page === 1 && result.page < result.pages) {
+            result.next_page_url = "/api/readinglist/read/" + (result.page + 1).toString();
+            result.prev_page_url = null;
+        } else if (result.page > 1 && result.page === result.pages) {
+            result.prev_page_url = "/api/readinglist/read/" + (result.page - 1).toString();
+            result.next_page_url = null;
+        } else {
+            result.next_page_url = "/api/readinglist/read/" + (result.page + 1).toString();
+            result.prev_page_url = "/api/readinglist/read/" + (result.page - 1).toString();
+        }
+        res.jsonp(result);
     })
     .catch(function(err) {
         logger.debug(err);

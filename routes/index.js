@@ -10,7 +10,7 @@ server.get('/', function(req, res){
 });
 
 const readinglist = require('./readinglist');
-server.route('/api/readinglist/read')
+server.route('/api/readinglist/read/:page?')
    .get(readinglist.read);
 server.route('/api/readinglist/read/:id')
       .get(readinglist.readById);

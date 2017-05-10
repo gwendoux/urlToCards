@@ -29,21 +29,24 @@ window.onload = function () {
 
     new Vue({
         el: '#loop',
-        data: {items: []},
-        created: function () {
-            this.fetchData();
+        components: {
+            VPaginator: VuePaginator
+        },
+        data: {
+            items: [],
+            resource_url: '/api/readinglist/read',
+            options: {
+                remote_data: 'docs',
+                remote_current_page: 'page',
+                remote_last_page: 'pages',
+                remote_next_page_url: 'next_page_url',
+                remote_prev_page_url: 'prev_page_url'
+            }
         },
         methods: {
-            fetchData: function () {
-                var self = this;
-                fetch(config.base_url + 'read')
-                .then(function (resp) {
-                    return resp.json();
-                }).then(function (data) {
-                    self.items = data;
-                }).catch(function(err) {
-                    console.log(err);
-                });
+            updateResource(data){
+                console.log(data);
+                this.items = data
             },
             save: function(item) {
                 var content = {
