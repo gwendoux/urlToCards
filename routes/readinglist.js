@@ -44,7 +44,6 @@ function getImage (req, res, next) {
 }
 
 function edit (req, res, next) {
-    var newTitle = req.body.title;
     res.setHeader('Content-Type', 'application/json');
     item.findByIdAndUpdate(req.params.id, {title: req.body.title})
     .then(function(){
