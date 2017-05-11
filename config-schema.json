@@ -14,5 +14,15 @@
     "doc": "The port to bind",
     "format": "port",
     "default": 8005
+  },
+  "db_name": {
+    "doc": "Name of database",
+    "format": "*",
+    "default": false
+  },
+  "db_model": {
+    "doc": "Name of model use",
+    "format": "*",
+    "default": false
   }
 }

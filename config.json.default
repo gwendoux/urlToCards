@@ -1,5 +1,7 @@
 {
     "env": "development",
     "log_level": "trace",
-    "port": 8020
+    "port": 8020,
+    "db_name": "CHANGE_ME",
+    "db_model": "CHANGE_ME",
 }

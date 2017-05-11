@@ -5,7 +5,8 @@ const mongoose = require('mongoose');
 const mongoosePaginate = require('mongoose-paginate');
 mongoose.Promise = global.Promise;
 
-var readingListDB = mongoose.createConnection('mongodb://localhost/readingList');
+var db_server = 'mongodb://localhost/' + config.get('db_name');
+var readingListDB = mongoose.createConnection(db_server);
 
 var schema = new mongoose.Schema({
     url: String,
@@ -13,11 +14,12 @@ var schema = new mongoose.Schema({
     webshot: String
 });
 schema.plugin(mongoosePaginate);
-var item = readingListDB.model('item',  schema);
+var item = readingListDB.model(config.get('db_model'),  schema);
 
 function read (req, res, next) {
     var options = {
-        page: parseInt(req.params.page, 10) || 1
+        page: parseInt(req.params.page, 10) || 1,
+        limit: 12
     };
     res.setHeader('Content-Type', 'application/json');
     item.paginate({}, options)
